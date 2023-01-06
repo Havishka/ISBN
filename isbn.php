@@ -17,6 +17,7 @@ function generate_unique_isbn() {
 
   
       // Calculate the check digit
+      // Calculate the check digit
     //   $check_digit = 0;
     //   for ($i = 0; $i < strlen($isbn); $i++) {
     //     if ($i % 2 == 0) {
